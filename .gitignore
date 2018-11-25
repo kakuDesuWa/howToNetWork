@@ -1,0 +1,12 @@
+# Python template
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pycharm
+.idea/
+
+tmp/
+.DS_Store
+.pytest_cache/
+*.sqlite
