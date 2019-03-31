@@ -1,29 +1,19 @@
-# how to network
+# How To Network
 
-## 由来
+To become a software engineer instead of a developer, you should know ...
 
-工作一年以来, 我时常感到不安, 虽然工作都能顺利完成, 代码总能很好的work. 但C编译器原理中的一段话经常在我耳边响起:
+## Overviews
 
-![谨记](./pic/important.jpg)
+- Some Specific Topics
 
-**也许我们中的大多数注定要成为高级或低级的"码农", 但我希望自己能在让代码能work的同时更能知其所以然! 希望自己在解决心中困惑的过程中, 收获成长, 快乐, 时刻记得自己曾经年少, 一直有梦, 并且坚持不懈的在前往梦想的彼岸.**
+Contain some topics more detail
 
-这个仓库(repository)的主要的任务:
+- Implementations
 
-- 记录
+Codes writen by Golang/C/Python
 
-    从计算机网络开始 -> TCP/IP详解 以及可能穿插的其它网络相关的协议的学习笔记, 总结.
+- tutorial
 
-- 引导
+Guides of related books.
 
-    完整的内容应该从经典的书中获得, 所以该repo的任务应该是引导性质的, 但应该会很"详细". 我会尽量做到让看到它的人, 在阅读时能明显感觉到, 作者(我kaku)是懂的(对比参考一些技术性的翻译= =我都不确定译者是否明白...)
-
-- 实践
-
-    原理通透了, 总要实践, 写出真正能work的代码.目前我(kaku)只掌握了2门语言Python + Golang. 未来在实践过程中可能主要是这2种语言实现, 但也不排除使用C++实现.
-
-## 内容
-
-- 计算机网络(第五版)
-
-- TCP/IP详解(三卷)
+![stay_curious_about_the_world](./pic/important.jpg)
