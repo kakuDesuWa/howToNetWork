@@ -4,16 +4,18 @@ To become a software engineer instead of a developer, you should know ...
 
 ## Overviews
 
-- Some Specific Topics
+- Topics
 
-Contain some topics more detail
+Contain some topics more detail.
 
 - Implementations
 
-Codes writen by Golang/C/Python
+Codes writen by Golang/C/Python.
 
-- tutorial
+- Tutorials
 
 Guides of related books.
+
+1. [king way of computer network guide](./tutorial/king_way/README.md)
 
 ![stay_curious_about_the_world](./pic/important.jpg)
