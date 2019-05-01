@@ -12,6 +12,8 @@ My nativae language is not english, and I am trying to use english in this repo.
 
 Contain some topics more detail.
 
+[Browser Same-Origin Policy](./topic/from_same_origin_policy.md)
+
 - Implementations
 
 Codes writen by Golang/C/Python.
@@ -19,8 +21,6 @@ Codes writen by Golang/C/Python.
 - Tutorials
 
 Guides of related books.
-
-[Browser Same-Origin Policy](./topic/from_same_origin_policy.md)
 
 1. [king way of computer network guide](./tutorial/king_way/README.md)
 
